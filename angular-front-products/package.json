@@ -1,5 +1,5 @@
 {
-  "name": "enset-app",
+  "name": "emsi-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
