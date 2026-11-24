@@ -1,0 +1,23 @@
+﻿# Dependances / builds (projets imbriques)
+node_modules/
+dist/
+build/
+.angular/
+target/
+out/
+
+# Environnements & secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+
+# Sauvegarde des depots imbriques supprimes
+*.git.bak/
